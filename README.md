@@ -1,8 +1,8 @@
 # Open-source library request manager
 > ####A place to share ideas for open source library with other developers.
 
-* If you have an idea for a new library but don't have the time or skills to develop it, simply create a new issue.
-* If you're searching for ideas to implement a new library just search the open issues.
+* If you have an idea for a new library but don't have the time or skills to develop it, simply [create a new issue][2].
+* If you're searching for ideas to implement a new library just search the [open issues][3].
 
 ##Rules
 1. Requests **must** contain a clear and descriptive *title*.
@@ -12,3 +12,5 @@
 4. *Invalid* requests will be marked `invalid` until they are fixed.
 
 [1]: https://github.com/HeinrichReimer/open-source-library-request-manager/issues/1
+[2]: https://github.com/HeinrichReimer/open-source-library-request-manager/issues/new
+[3]: https://github.com/HeinrichReimer/open-source-library-request-manager/issues
