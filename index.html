@@ -1,4 +1,10 @@
 ---
 title: Open-source library request manager
 ---
-{% markdown README.md %}
+<section>
+  {% markdown README.md %}
+</section>
+<section>
+  {% capture my-include %}{% include test.md %}{% endcapture %}
+  {{ my-include | markdownify }}
+</section>
