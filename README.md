@@ -1,5 +1,5 @@
 # Open-source library request manager
-> *This repo is meant as a place to share open source library ideas with other developers.*
+> ####A place to share ideas for open source library with other developers.
 
 * If you have an idea for a new library but don't have the time or skills to develop it, simply create a new issue.
 * If you're searching for ideas to implement a new library just search the open issues.
