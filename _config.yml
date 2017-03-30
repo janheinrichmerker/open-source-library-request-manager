@@ -1,2 +1,4 @@
 name: Open-source library request manager
 markdown: kramdown
+
+theme: jekyll-theme-minimal
