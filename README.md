@@ -11,6 +11,12 @@
 3. Requests that have made it to an actual library will be *closed* to make it easier for other devs to find ideas that aren't already "taken".
 4. *Invalid* requests will be marked `invalid` until they are fixed.
 
+## Completed Libraries
+
+* [material-about-library][4] ([#3][5])
+
 [1]: https://github.com/HeinrichReimer/open-source-library-request-manager/issues/1
 [2]: https://github.com/HeinrichReimer/open-source-library-request-manager/issues/new
 [3]: https://github.com/HeinrichReimer/open-source-library-request-manager/issues
+[4]: https://github.com/daniel-stoneuk/material-about-library
+[5]: https://github.com/heinrichreimer/open-source-library-request-manager/issues/3
