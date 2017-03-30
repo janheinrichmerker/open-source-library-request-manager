@@ -1,8 +1,8 @@
 # Open-source library request manager
 > #### A place to share ideas for open source library with other developers.
 
-* If you have an idea for a new library but don't have the time or skills to develop it, simply [create a new issue][2].
-* If you're searching for ideas to implement a new library just search the [open issues][3].
+* If you have an _idea for a new library_ but don't have the time or skills to develop it, simply [**create a new issue**][2].
+* If you're _searching for ideas_ to implement a new library just search the [**open issues**][3].
 
 ## Rules
 1. Requests **must** contain a clear and descriptive *title*.
